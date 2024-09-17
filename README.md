@@ -1,5 +1,7 @@
 # HR Analytics Dashboard
 
+![](https://github.com/letscodeaditya/HR-Analytics-Dashboard/blob/main/preview.jpg)
+
 
 📊 Project Overview
 
