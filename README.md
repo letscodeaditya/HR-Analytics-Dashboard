@@ -7,24 +7,24 @@ The HR Analytics Dashboard is a comprehensive Power BI dashboard designed to vis
 
 🔑 Key Features
 
-Employee Attrition Analysis:
-Visualized attrition rates by salary, age, job role, education, and years of service.
-Diversity Metrics:
-Showcased gender distribution across departments and job roles.
-Performance Metrics:
-Integrated employee performance ratings and average salaries.
-Interactive Visualizations:
-Enabled dynamic filtering and drill-downs to explore detailed employee data.
+Employee Attrition Analysis: Visualized attrition rates by salary, age, job role, education, and years of service.
+
+Diversity Metrics: Showcased gender distribution across departments and job roles.
+
+Performance Metrics: Integrated employee performance ratings and average salaries.
+
+Interactive Visualizations: Enabled dynamic filtering and drill-downs to explore detailed employee data.
+
 
 
 🛠 Tools Used
 
-Power BI:
-Built interactive reports and dashboards.
-DAX (Data Analysis Expressions):
-Used for complex calculations and custom KPIs.
-Power Query:
-Managed data extraction, transformation, and loading (ETL).
+Power BI: Built interactive reports and dashboards.
+
+DAX (Data Analysis Expressions): Used for complex calculations and custom KPIs.
+
+Power Query: Managed data extraction, transformation, and loading (ETL).
+
 
 
 🚀 How to Run the Project
