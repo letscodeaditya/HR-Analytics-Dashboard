@@ -1,4 +1,4 @@
-HR Analytics Dashboard
+# HR Analytics Dashboard
 
 
 📊 Project Overview
@@ -10,12 +10,10 @@ The HR Analytics Dashboard is a comprehensive Power BI dashboard designed to vis
 
 
 1. Employee Attrition Analysis: Visualized attrition rates by salary, age, job role, education, and years of service.
-
 2. Diversity Metrics: Showcased gender distribution across departments and job roles.
-
 3. Performance Metrics: Integrated employee performance ratings and average salaries.
-
 4. Interactive Visualizations: Enabled dynamic filtering and drill-downs to explore detailed employee data.
+
 
 
 
@@ -23,9 +21,7 @@ The HR Analytics Dashboard is a comprehensive Power BI dashboard designed to vis
 
 
 1. Power BI: Built interactive reports and dashboards.
-
 2. DAX (Data Analysis Expressions): Used for complex calculations and custom KPIs.
-
 3. Power Query: Managed data extraction, transformation, and loading (ETL).
 
 
@@ -37,3 +33,11 @@ Download or clone this repository to your local machine.
 Open Power BI Desktop and load the .pbix file from the repository.
 Ensure you have access to the necessary data source (if it’s live) or use the provided static dataset.
 Interact with the dashboard by using slicers and filters to explore various insights into employee metrics.
+
+
+
+🧑‍💻 How to Contribute
+If you'd like to contribute to either of these projects, feel free to fork the repository, make your improvements, and submit a pull request. Any improvements or new features are welcome!
+
+📄 License
+This project is licensed under the MIT License. See the LICENSE file for more details.
