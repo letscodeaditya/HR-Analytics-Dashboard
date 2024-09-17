@@ -34,10 +34,3 @@ Open Power BI Desktop and load the .pbix file from the repository.
 Ensure you have access to the necessary data source (if it’s live) or use the provided static dataset.
 Interact with the dashboard by using slicers and filters to explore various insights into employee metrics.
 
-
-
-🧑‍💻 How to Contribute
-If you'd like to contribute to either of these projects, feel free to fork the repository, make your improvements, and submit a pull request. Any improvements or new features are welcome!
-
-📄 License
-This project is licensed under the MIT License. See the LICENSE file for more details.
